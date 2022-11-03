@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RenFrost
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning Android Development and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ren.frost0@gmail.com
 
